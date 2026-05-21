@@ -15,6 +15,14 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/iOS-18.0+-black?logo=apple&logoColor=white" alt="iOS 18.0+" />
+  <img src="https://img.shields.io/badge/Swift-6-F05138?logo=swift&logoColor=white" alt="Swift 6" />
+  <img src="https://img.shields.io/badge/SwiftUI-blue?logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/backend-Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/license-MIT-yellow" alt="MIT License" />
+</p>
+
+<p align="center">
   <a href="https://apps.apple.com/us/app/demoly/id6760873339">
     <img src=".github/assets/app-store-badge.svg" height="50" alt="Download on the App Store" />
   </a>
