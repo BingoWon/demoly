@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/BingoWon/demoly-app">
+  <a href="https://github.com/BingoWon/demoly">
     <img src=".github/assets/logo.png" width="80" alt="Demoly" />
   </a>
 </p>
@@ -63,8 +63,8 @@ Demoly is a creative platform for iOS where anyone can build and share interacti
 > Requires **Xcode 16.0+** and **iOS 18.0+**
 
 ```bash
-git clone https://github.com/BingoWon/demoly-app.git
-cd demoly-app
+git clone https://github.com/BingoWon/demoly.git
+cd demoly
 open Demoly.xcodeproj
 ```
 

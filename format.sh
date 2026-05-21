@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# demoly-app/format.sh
+# demoly/format.sh
 # 格式化整个 iOS 项目代码
 
 echo "Running SwiftFormat..."
